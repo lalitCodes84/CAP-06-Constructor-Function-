@@ -1,2 +1,3 @@
 # CAP-06-Constructor-Function-
-Bank account details (constructor function)
+1 - Bank account Management Function (constructor function).
+2 - Online Bookstore Function.
